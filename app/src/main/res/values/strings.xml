@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">VisorImagenes</string>
+
+    <string name="dummy_button">Quiero \n Recibir \n Información</string>
+    <string name="dummy_content">IMAGENES</string>
+    <string name="lblNombre">Nombre</string>
+    <string name="lblApellidos">Apellidos</string>
+    <string name="lblTelefono">Telefono</string>
+    <string name="lblCorreo">Correo Electrónico</string>
+    <string name="lblProvinciaInteres">Provincia Interes</string>
+    <string name="saveForm">Guardar</string>
+
+    <string name="lblComercio">Comercio</string>
+    <string name="lblServiciosParticulares">Servicios a Particulares</string>
+    <string name="lblServiciosEmpresas">Servicios a Empresas</string>
+    <string name="lblServiciosHosteleria">Hosteleria</string>
+
+    <string name="lvlFranDonga">DONGA</string>
+    <string name="lvlFranCroqueteria">DONGA</string>
+    <string name="lvlAsasur">Asasur</string>
+    <string name="lvlKrack">Krack</string>
+    <string name="lvlBellum">Bellum</string>
+    <string name="lvlLeds">Leds Home Stores</string>
+    <string name="lvlDonAire">Don Aire</string>
+    <string name="lvlReciclayGana">Recicla y Gana</string>
+    <string name="lvlKids">Kids Arround</string>
+    <string name="lvlTutto">Tutto Tempo</string>
+    <string name="lvlJamoncito">El Jamoncito</string>
+    <string name="lvlWSCafe">WorkShop Café</string>
+    <string name="lvlCroqueteria">La Croquetería</string>
+    <string name="lvlCome">Come n\'Enjoy</string>
+    <string name="lvlNyN">Negocios y Networking</string>
+    <string name="lvlDid">DiD Confidencial</string>
+    <string name="lvlSerseo">Serseo</string>
+    <string name="lvlDuaExpress">Dua Express</string>
+    <string name="lvlTerrazing">Terrazing</string>
+    <string name="lblServiciosPerticulares">Servisios a particulares</string>
+    <string name="lvlAreasPla">Areas PLA</string>
+    <string name="lvlNickGo"><![CDATA[Nick & Go]]></string>
+    <string name="lvlClick">Click y Repara</string>
+    <string name="lvlOdm">Operador de Mercados</string>
+    <string name="lvlEfinca">Efinca</string>
+    <string name="lvlWinet">Winet</string>
+    <string name="lvlMinicall">Minicall</string>
+    <string name="lvlXperiencia">Xperiencia Virtual</string>
+    <string name="lblCabeceraListaFran">¿Desea recibir información de alguna otra cadena?</string>
+    <string name="lblDescripListaFran">Le presentamos una seleccion de modelos de negocio rentables por sectores de actividad</string>
+    <string name="lblDescCome">Portal de Actividaes turisticas, ocio y aventura</string>
+    <string name="lblDescSerseo">Agencia mk Online</string>
+    <string name="lblDescTerrazing">Instalacion de terrazas</string>
+    <string name="lblDescWSCafe">Coworking Nómada</string>
+    <string name="lblDescLeds">Tienda de leds</string>
+    <string name="lblCroqueteria">Croquetería Gourmet</string>
+    <string name="lblJamoncito">Cervecería Tapería</string>
+    <string name="lblKids">Moda Infantil</string>
+    <string name="lblRecicla">Puntos de reciclage automatizado</string>
+    <string name="lblNyN">Networking Activo</string>
+    <string name="lblDescAreasPla">Areas para Autocaravanas</string>
+    <string name="lblDesMinicall">Call Center de venta de servicios</string>
+    <string name="lblDesWinet">Operador de Internet, movil y Tv</string>
+    <string name="lblDesClick">Servicos de Mantenimiento del hogar</string>
+    <string name="lblDesNick">Rutas turisticas con coches ecológicos</string>
+    <string name="lblDesEfinca">Administracion de Fincas</string>
+    <string name="lblDesODM">Operador en mercados Bursatiles</string>
+    <string name="lblDesAsasur">Asador de Pollos y platos preparados</string>
+    <string name="lblDesKrack">Calzado y Complementos</string>
+    <string name="lblDesTutto">Moda precio unico</string>
+    <string name="lblDescBellum">Centros de belleza Integral</string>
+    <string name="hello">Hola</string>
+    <string name="lvlAdagio">Adio Cantabile</string>
+    <string name="lblDesAdagio">Academia Musical</string>
+
+
+</resources>
